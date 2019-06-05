@@ -11,7 +11,7 @@ humandate: "9-10 July 2019"    # human-readable dates for the workshop (e.g., "F
 humantime: "9:00am-5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-07-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-07-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Thomas Cuddihy", "Toan Phung", "Belinda Weaver"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Thomas Cuddihy", "Toan Phung", "Belinda Weaver", "Stephane Guillou"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Ebony Watson", "Olumide Awelewa", "Toan Phung","Huiwen Zheng"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["resbazbris@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
